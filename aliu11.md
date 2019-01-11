@@ -1,0 +1,1 @@
+ The fork request is just a request for GitHub to clone the master repo and registers it to your username. Then you can use git clone to clone the project to write and edit the codes/informations. Git branch are pointer to commit. They save olders commit so you can acces them if you mess up.
