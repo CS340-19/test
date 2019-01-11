@@ -1,0 +1,1 @@
+Forking is copying a repo that you don't have write access to onto your github account. Cloning is like forking except you are copying the repo onto your local machine. Branching is where you copy a repo that you have write access to that you can work on idividually from the master branch and all other branches. This can be combined with other branches in the future.
