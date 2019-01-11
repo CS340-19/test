@@ -4,4 +4,7 @@ Forking is a copy of codes and programs that allows you can change them and do n
 
 Clone is a copy of repository to your local pc so that you can edit them in local. Unlike forking, Clone is moviing codes or files from GitHub to your computer.
 
-And Git Branches are effectively a pointer to a snapshot of your changes. All branches on GitHub will be copied in a fork. 
+And Git Branches are effectively a pointer to a snapshot of your changes. 
+All branches on GitHub will be copied in a fork. 
+
+Yucheng Ma.
