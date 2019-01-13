@@ -1,0 +1,1 @@
+Github fork creates a copy of a repository, but this copy exists as a remote respository. Git clone creates a local copy of a repository, which means that a copy of repository exists on my local machine. Git branch creates a new branch from the main line of development, where a programmer can work without messing up the main line. A branch is a lightweight movable pointer.
