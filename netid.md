@@ -1,0 +1,1 @@
+A fork is to create your own copy of another user's (or organization) repo so that you can make your own changes to it. Git clone is used to copy a remote repo and make a local copy. Git branch is used to create another branch off of your current branch.
