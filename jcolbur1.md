@@ -1,0 +1,1 @@
+The difference between github fork and git clone is where the "copying" is involved. Github's fork copys between repositories on the server while git clone copys between the authorized repository and a local machine. Git branch creates a pointer to your current commit object allowing you to work on the original repository (by merging).
