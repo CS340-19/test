@@ -1,0 +1,3 @@
+Git fork makes a copy of the selected repo inside of your own github account. Nothing is added to your local machine, it is done entirely on the github server. 
+Git clone also copies the selected repo, but the copy is made on your local machine. 
+Git branch also creates a working copy of the repo, but different from fork in that the copy is still created inside the original repo. You can create commits and push them up to the github server, but they will only be reflected in your branch, not the master branch of the repo. You can then create a pull request to merge your branch into the master. 
